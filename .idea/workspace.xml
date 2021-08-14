@@ -13,8 +13,29 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e755b597-04a7-4a00-a3aa-34b51cee7bcc" name="Default Changelist" comment="-create birthday logic &amp; uigit remote add origin https://github.com/msxenon/birthday_demo.git">
+    <list default="true" id="e755b597-04a7-4a00-a3aa-34b51cee7bcc" name="Default Changelist" comment="-add documentation">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/4a32de82d4f2e9025a97638a8590306a/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/4a32de82d4f2e9025a97638a8590306a/.filecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/4a32de82d4f2e9025a97638a8590306a/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/4a32de82d4f2e9025a97638a8590306a/app.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/4a32de82d4f2e9025a97638a8590306a/kernel_snapshot.d" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/4a32de82d4f2e9025a97638a8590306a/kernel_snapshot.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/4a32de82d4f2e9025a97638a8590306a/kernel_snapshot.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/4a32de82d4f2e9025a97638a8590306a/kernel_snapshot.stamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.6.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.6.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.6.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.6.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.6.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.6.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/5.6.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.6.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_build.d" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_build.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/birthday/birthday_logic.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/birthday/birthday_logic.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/birthday/birthday_ui.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/birthday/birthday_ui.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628940557332</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="-add documentation">
+      <created>1628941026358</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628941026358</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,27 +114,37 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-create birthday logic &amp; ui" />
-    <option name="LAST_COMMIT_MESSAGE" value="-create birthday logic &amp; ui" />
+    <MESSAGE value="-add documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="-add documentation" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1807" height="535" key="GridCell.Tab.0.bottom" timestamp="1628940740147">
+    <state width="0" height="0" key="GridCell.Tab.0.bottom" timestamp="1628941112981">
       <screen x="71" y="25" width="1849" height="1055" />
     </state>
-    <state width="1807" height="535" key="GridCell.Tab.0.bottom/71.25.1849.1055@71.25.1849.1055" timestamp="1628940740147" />
-    <state width="1807" height="535" key="GridCell.Tab.0.center" timestamp="1628940740146">
+    <state width="0" height="0" key="GridCell.Tab.0.bottom/71.25.1849.1055@71.25.1849.1055" timestamp="1628941112981" />
+    <state width="0" height="0" key="GridCell.Tab.0.center" timestamp="1628941112980">
       <screen x="71" y="25" width="1849" height="1055" />
     </state>
-    <state width="1807" height="535" key="GridCell.Tab.0.center/71.25.1849.1055@71.25.1849.1055" timestamp="1628940740146" />
-    <state width="1807" height="535" key="GridCell.Tab.0.left" timestamp="1628940740145">
+    <state width="0" height="0" key="GridCell.Tab.0.center/71.25.1849.1055@71.25.1849.1055" timestamp="1628941112980" />
+    <state width="0" height="0" key="GridCell.Tab.0.left" timestamp="1628941112979">
       <screen x="71" y="25" width="1849" height="1055" />
     </state>
-    <state width="1807" height="535" key="GridCell.Tab.0.left/71.25.1849.1055@71.25.1849.1055" timestamp="1628940740145" />
-    <state width="1807" height="535" key="GridCell.Tab.0.right" timestamp="1628940740146">
+    <state width="0" height="0" key="GridCell.Tab.0.left/71.25.1849.1055@71.25.1849.1055" timestamp="1628941112979" />
+    <state width="0" height="0" key="GridCell.Tab.0.right" timestamp="1628941112980">
       <screen x="71" y="25" width="1849" height="1055" />
     </state>
-    <state width="1807" height="535" key="GridCell.Tab.0.right/71.25.1849.1055@71.25.1849.1055" timestamp="1628940740146" />
+    <state width="0" height="0" key="GridCell.Tab.0.right/71.25.1849.1055@71.25.1849.1055" timestamp="1628941112980" />
+    <state x="595" y="276" key="Vcs.Push.Dialog.v2" timestamp="1628941031583">
+      <screen x="71" y="25" width="1849" height="1055" />
+    </state>
+    <state x="595" y="276" key="Vcs.Push.Dialog.v2/71.25.1849.1055@71.25.1849.1055" timestamp="1628941031583" />
+    <state x="802" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628940938421">
+      <screen x="71" y="25" width="1849" height="1055" />
+    </state>
+    <state x="802" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/71.25.1849.1055@71.25.1849.1055" timestamp="1628940938421" />
   </component>
 </project>

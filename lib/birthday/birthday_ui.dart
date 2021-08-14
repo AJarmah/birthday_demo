@@ -13,6 +13,7 @@ class BirthdayUI extends StatefulWidget {
 class _BirthdayUIState extends State<BirthdayUI> with BirthdayLogic {
   @override
   Widget build(BuildContext context) {
+    final textStyle = TextStyle(color: Colors.red, fontSize: 30);
     return Scaffold(
       body: SafeArea(
         child: Center(
@@ -28,8 +29,29 @@ class _BirthdayUIState extends State<BirthdayUI> with BirthdayLogic {
               SizedBox(
                 height: 200,
               ),
-              if (years != null) Text(years.toString() + ' Years'),
-              if (restDays != null) Text(restDays.toString() + ' Days'),
+              if (pickedBirthday != null)
+                Text(
+                  'Your picked birthday is:',
+                  style: textStyle,
+                ),
+              if (pickedBirthday != null)
+                Text(
+                  '${pickedBirthday.month}/${pickedBirthday.day}/${pickedBirthday.year}',
+                  style: textStyle,
+                ),
+              SizedBox(
+                height: 50,
+              ),
+              if (years != null)
+                Text(
+                  years.toString() + ' Years',
+                  style: textStyle,
+                ),
+              if (restDays != null)
+                Text(
+                  restDays.toString() + ' Days',
+                  style: textStyle,
+                ),
             ],
           ),
         ),

@@ -6,12 +6,13 @@ import 'birthday_ui.dart';
 ///birthday logic is here
 mixin BirthdayLogic on State<BirthdayUI> {
   Duration sinceBirthdayDuration;
+  DateTime pickedBirthday;
   int years;
   int restDays;
   Future<void> selectDate(BuildContext context) async {
     final today = DateTime.now();
 
-    final DateTime pickedBirthday = await showDatePicker(
+    pickedBirthday = await showDatePicker(
         context: context,
         initialDate: DateTime(1992),
         firstDate: DateTime(1990),
