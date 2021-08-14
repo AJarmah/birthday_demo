@@ -3,8 +3,19 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e755b597-04a7-4a00-a3aa-34b51cee7bcc" name="Default Changelist" comment="" />
+    <list default="true" id="e755b597-04a7-4a00-a3aa-34b51cee7bcc" name="Default Changelist" comment="-create birthday logic &amp; uigit remote add origin https://github.com/msxenon/birthday_demo.git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +28,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1wiOeHqoyzKHHTcGFSzNcTxodd4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
@@ -30,6 +45,11 @@
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/birthday" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
@@ -46,24 +66,47 @@
       <option name="presentableId" value="Default" />
       <updated>1628938055795</updated>
     </task>
+    <task id="LOCAL-00001" summary="-create birthday logic &amp; ui">
+      <created>1628940557332</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628940557332</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-create birthday logic &amp; ui" />
+    <option name="LAST_COMMIT_MESSAGE" value="-create birthday logic &amp; ui" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1807" height="535" key="GridCell.Tab.0.bottom" timestamp="1628939302389">
+    <state width="1807" height="535" key="GridCell.Tab.0.bottom" timestamp="1628940740147">
       <screen x="71" y="25" width="1849" height="1055" />
     </state>
-    <state width="1807" height="535" key="GridCell.Tab.0.bottom/71.25.1849.1055@71.25.1849.1055" timestamp="1628939302389" />
-    <state width="1807" height="535" key="GridCell.Tab.0.center" timestamp="1628939302388">
+    <state width="1807" height="535" key="GridCell.Tab.0.bottom/71.25.1849.1055@71.25.1849.1055" timestamp="1628940740147" />
+    <state width="1807" height="535" key="GridCell.Tab.0.center" timestamp="1628940740146">
       <screen x="71" y="25" width="1849" height="1055" />
     </state>
-    <state width="1807" height="535" key="GridCell.Tab.0.center/71.25.1849.1055@71.25.1849.1055" timestamp="1628939302388" />
-    <state width="1807" height="535" key="GridCell.Tab.0.left" timestamp="1628939302387">
+    <state width="1807" height="535" key="GridCell.Tab.0.center/71.25.1849.1055@71.25.1849.1055" timestamp="1628940740146" />
+    <state width="1807" height="535" key="GridCell.Tab.0.left" timestamp="1628940740145">
       <screen x="71" y="25" width="1849" height="1055" />
     </state>
-    <state width="1807" height="535" key="GridCell.Tab.0.left/71.25.1849.1055@71.25.1849.1055" timestamp="1628939302387" />
-    <state width="1807" height="535" key="GridCell.Tab.0.right" timestamp="1628939302388">
+    <state width="1807" height="535" key="GridCell.Tab.0.left/71.25.1849.1055@71.25.1849.1055" timestamp="1628940740145" />
+    <state width="1807" height="535" key="GridCell.Tab.0.right" timestamp="1628940740146">
       <screen x="71" y="25" width="1849" height="1055" />
     </state>
-    <state width="1807" height="535" key="GridCell.Tab.0.right/71.25.1849.1055@71.25.1849.1055" timestamp="1628939302388" />
+    <state width="1807" height="535" key="GridCell.Tab.0.right/71.25.1849.1055@71.25.1849.1055" timestamp="1628940740146" />
   </component>
 </project>
